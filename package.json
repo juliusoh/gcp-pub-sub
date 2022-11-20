@@ -1,0 +1,23 @@
+{
+  "name": "gcp-pub-sub",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juliusoh/gcp-pub-sub.git"
+  },
+  "author": "Julius Oh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juliusoh/gcp-pub-sub/issues"
+  },
+  "homepage": "https://github.com/juliusoh/gcp-pub-sub#readme",
+  "dependencies": {
+    "@google-cloud/pubsub": "^3.2.1",
+    "nodemon": "^2.0.20"
+  }
+}
